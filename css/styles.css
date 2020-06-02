@@ -33,3 +33,8 @@ a {
     Width: 35%;
     margin: auto;
 }
+
+a:hover {
+    background-color: #000;
+    color: #fff;
+}
