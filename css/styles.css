@@ -8,3 +8,9 @@
         "image-area" 
         "link-area";
 }
+
+img {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
